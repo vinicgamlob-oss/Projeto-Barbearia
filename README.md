@@ -12,8 +12,8 @@ Este projeto é uma API desenvolvida com **Laravel** para o gerenciamento de cli
 
 1. **Clonar o repositório:**
 ```bash
-git clone <LINK_DO_SEU_REPOSITORIO>
-cd <NOME_DA_PASTA>
+git clone <https://github.com/vinicgamlob-oss/Projeto-Barbearia>
+cd <sistema-barbearia>
 
 ```
 
